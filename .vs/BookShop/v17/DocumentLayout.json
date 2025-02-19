@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\BookShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|d:\\project\\bookshop\\bookshop\\bills.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\bills.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\password.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\password.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\splash.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\splash.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|D:\\Project\\BookShop\\bookshop\\record.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{290C8D66-19C9-43C0-AD1D-91AC2DD9A773}|BookShop\\BookShop.vbproj|solutionrelative:bookshop\\record.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Login.vb",
+              "RelativeDocumentMoniker": "BookShop\\Login.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Login.vb",
+              "RelativeToolTip": "BookShop\\Login.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvyEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:33:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Dashboard.vb",
+              "RelativeDocumentMoniker": "BookShop\\Dashboard.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Dashboard.vb [Design]",
+              "RelativeToolTip": "BookShop\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:33:13.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\User.vb",
+              "RelativeDocumentMoniker": "BookShop\\User.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\User.vb [Design]",
+              "RelativeToolTip": "BookShop\\User.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:33:04.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Password.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Password.vb",
+              "RelativeDocumentMoniker": "BookShop\\Password.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Password.vb [Design]",
+              "RelativeToolTip": "BookShop\\Password.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:32:58.216Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Login.vb",
+              "RelativeDocumentMoniker": "BookShop\\Login.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Login.vb [Design]",
+              "RelativeToolTip": "BookShop\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:32:55.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Home.vb",
+              "RelativeDocumentMoniker": "BookShop\\Home.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Home.vb [Design]",
+              "RelativeToolTip": "BookShop\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:32:49.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Book.vb",
+              "RelativeDocumentMoniker": "BookShop\\Book.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Book.vb [Design]",
+              "RelativeToolTip": "BookShop\\Book.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T11:49:31.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bills.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Bills.vb",
+              "RelativeDocumentMoniker": "BookShop\\Bills.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Bills.vb [Design]",
+              "RelativeToolTip": "BookShop\\Bills.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-29T11:49:34.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Splash.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Splash.vb",
+              "RelativeDocumentMoniker": "BookShop\\Splash.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Splash.vb [Design]",
+              "RelativeToolTip": "BookShop\\Splash.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T12:33:01.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Record.vb [Design]",
+              "DocumentMoniker": "D:\\Project\\BookShop\\BookShop\\Record.vb",
+              "RelativeDocumentMoniker": "BookShop\\Record.vb",
+              "ToolTip": "D:\\Project\\BookShop\\BookShop\\Record.vb [Design]",
+              "RelativeToolTip": "BookShop\\Record.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-31T15:10:08.266Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
